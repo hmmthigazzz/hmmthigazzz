@@ -6,58 +6,64 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou Analista Júnior de RPA na **HSI**, trabalhando com automação de processos, especialmente voltados à área de **Operações de Fundos**.
+Sou Analista Júnior de RPA na **HSI**, atuando no desenvolvimento de software, engenharia de dados e automação de processos voltados à área de **Operações de Fundos**.
 
-Meu trabalho envolve desenvolver soluções de automação, otimizar fluxos operacionais e explorar tecnologias que tornem os processos de negócio mais eficientes.
+Meu trabalho envolve construir soluções robustas, como pipelines ETL em C#/.NET, integração de sistemas, automação de fluxos corporativos e aplicações web.
 
-- 🤖 Atuação com RPA e Automação de Processos.
-- 🏦 Foco em automação de processos de Operações de Fundos.
-- 💻 Desenvolvimento com Python, C# e Power Automate.
-- 🌐 Experiência com React e JavaScript, incluindo desenvolvimento Front-end e Back-end.
-- 🚀 Sempre aprendendo e explorando novas tecnologias.
+- 💻 Desenvolvimento de software com **Python**, **C#/.NET** e **SQL Server**.
+- ⚙️ Construção de pipelines ETL de alta performance e automação de processos complexos.
+- 🌐 Experiência Full-stack com **React**, **TypeScript** e **Node.js**.
+- 🏦 Foco em eficiência operacional para o mercado financeiro e de Fundos Imobiliários.
+- 🚀 Sempre aprendendo, aplicando boas práticas de engenharia e escalando soluções.
+
 
 ## 🇺🇸 About me
 
-I'm a Junior RPA Analyst at **HSI**, working with process automation, particularly focused on the **Fund Operations** area.
+I'm a Junior RPA Analyst at **HSI**, working in software development, data engineering, and process automation focused on **Fund Operations**.
 
-My work involves developing automation solutions, optimizing operational workflows, and exploring technologies that make business processes more efficient.
+My work involves building robust solutions, such as C#/.NET ETL pipelines, system integration, enterprise workflow automation, and web applications.
 
-- 🤖 Working with RPA and Process Automation.
-- 🏦 Focused on automation in Fund Operations.
-- 💻 Developing solutions with Python, C#, and Power Automate.
-- 🌐 Experience with React and JavaScript, including Front-end and Back-end development.
-- 🚀 Always learning and exploring new technologies.
+- 💻 Software development with **Python**, **C#/.NET**, and **SQL Server**.
+- ⚙️ Building high-performance ETL pipelines and complex process automation.
+- 🌐 Full-stack experience with **React**, **TypeScript**, and **Node.js**.
+- 🏦 Focused on operational efficiency for the financial and Real Estate Funds market.
+- 🚀 Always learning, applying engineering best practices, and scaling solutions.
+
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas | Technologies & Tools
 
 **Linguagens | Languages**
-
 - Python
 - C#
-- JavaScript
-- SQL
+- JavaScript / TypeScript
+- SQL (SQL Server)
 
-**Frameworks e Automação | Frameworks & Automation**
+**Backend & Dados | Backend & Data**
+- .NET / Entity Framework
+- ETL & Pipelines de Dados
+- REST APIs & Webhooks
 
+**Frontend & Web**
 - React
-- Power Automate
-- Microsoft Ecosystem
+- Node.js
 
-**Ferramentas e conhecimentos | Tools & Other Skills**
-
+**Ferramentas & Ecossistema | Tools & Ecosystem**
+- Git & Azure DevOps
 - Docker
-- Databases
-- REST APIs
+- Microsoft Ecosystem / Power Automate
+- BPMN (Plataforma Lecom)
+
 
 ---
 
 ## 📫 Contato | Contact
 
-- 💼 LinkedIn: [[Meu LinkedIn](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/thiagopdasilva/)
+- 💼 LinkedIn: https://www.linkedin.com/in/thiagopdasilva/
 - 📧 Email: thiago.p.dasilva2005@gmail.com
+
 
 ---
 
-*Aprendendo, desenvolvendo e automatizando. | Always learning, building, and automating.* 🚀
+*Aprendendo, desenvolvendo e escalando software. | Always learning, building, and scaling software.* 🚀
